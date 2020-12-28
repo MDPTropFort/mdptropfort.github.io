@@ -16,8 +16,10 @@ Si un éditeur n'est pas d'accord avec nos publications, plutôt que d'essayer d
 
 | Site web        | Date du constat        | Constat                   | Problème               | Droit de réponse        |
 | --------------- | ---------------------- | ------------------------- | ---------------------- | ----------------------- |
-| Darty | 2020/12/28 | Le formulaire de changement de mot de passe ne permet pas de coller la valeur dans le champ de confirmation (mais l'accepte dans le premier champ). | Cela rends difficile l'usage d'un mot de passe géré par une gestionnaire qui ne serait pas forcément intégré au navigateur utilisé | Aucun à ce jour |
+| Darty | 2020/12/28 | Le formulaire de changement de mot de passe ne permet pas de coller la valeur dans le champ de confirmation (mais l'accepte dans le premier champ). | Cela rend difficile l'usage d'un mot de passe géré par une gestionnaire qui ne serait pas forcément intégré au navigateur utilisé | _Néant_ |
 
 ## Listes des sites corrigés
 
-_Néant_
+| Site web        | Problème d'origine     | Correction                |
+| --------------- | ---------------------- | ------------------------- |
+| LaboConnect | Le formulaire de changement de mot de passe ne permettait pas de coller des mots de passe | Le formulaire de changement de mot de passe permet de coller les mots de passe |

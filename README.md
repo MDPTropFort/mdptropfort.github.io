@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Mot de passe trop fort !
 
-You can use the [editor on GitHub](https://github.com/MDPTropFort/mdptropfort.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Un certain nombre de sites web, utilisé par le grand public comme par les entreprises, met en œuvre des règles de sécurité douteuses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+À des fins éducatives, ce site regroupe les diverses situations problématiques constatées et détaille pourquoi les choix faits sont discutables du point de vue de l'état de l'art de la sécurité des accès en ligne.
 
-### Markdown
+## Contribution
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+L'ensemble de ce site est maintenu sur GitHub, vous pouvez facilement nous envoyer une "Pull Request" pour l'alimenter.
 
-```markdown
-Syntax highlighted code block
+## Droit de réponse
 
-# Header 1
-## Header 2
-### Header 3
+Si un éditeur n'est pas d'accord avec nos publications, plutôt que d'essayer de nous censurer, il est préférable de nous contacter pour faire valoir votre droit de réponse. Celui-ci sera publié ici, sur la même ligne que le constat dans le cas où le constat est toujours présent et où les avis divergent, ou dans la liste des sites corrigés si le constat publié a mené à une prise de conscience.
 
-- Bulleted
-- List
+## Listes des constats
 
-1. Numbered
-2. List
+| Site web        | Date du constat        | Constat                   | Problème               | Droit de réponse        |
+| --------------- | ---------------------- | ------------------------- | ---------------------- | ----------------------- |
+| Darty | 2020/12/28 | Le formulaire de changement de mot de passe ne permet pas de coller la valeur dans le champ de confirmation (mais l'accepte dans le premier champ). | Cela rends difficile l'usage d'un mot de passe géré par une gestionnaire qui ne serait pas forcément intégré au navigateur utilisé | Aucun à ce jour |
 
-**Bold** and _Italic_ and `Code` text
+## Listes des sites corrigés
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MDPTropFort/mdptropfort.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Néant_

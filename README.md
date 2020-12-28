@@ -6,11 +6,11 @@ Un certain nombre de sites web, utilisé par le grand public comme par les entre
 
 ## Contribution
 
-L'ensemble de ce site est maintenu sur GitHub, vous pouvez facilement nous envoyer une "Pull Request" pour l'alimenter.
+L'ensemble de ce site est maintenu [sur GitHub](https://github.com/MDPTropFort/mdptropfort.github.io), vous pouvez facilement nous envoyer une "Pull Request" pour l'alimenter.
 
 ## Droit de réponse
 
-Si un éditeur n'est pas d'accord avec nos publications, plutôt que d'essayer de nous censurer, il est préférable de nous contacter pour faire valoir votre droit de réponse. Celui-ci sera publié ici, sur la même ligne que le constat dans le cas où le constat est toujours présent et où les avis divergent, ou dans la liste des sites corrigés si le constat publié a mené à une prise de conscience.
+Si un éditeur n'est pas d'accord avec nos publications, plutôt que d'essayer de nous censurer, il est préférable de [nous contacter](https://github.com/MDPTropFort) pour faire valoir votre droit de réponse. Celui-ci sera publié ici, sur la même ligne que le constat dans le cas où le constat est toujours présent et où les avis divergent, ou dans la liste des sites corrigés si le constat publié a mené à une prise de conscience.
 
 ## Listes des constats
 

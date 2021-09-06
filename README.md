@@ -17,6 +17,7 @@ Si un éditeur n'est pas d'accord avec nos publications, plutôt que d'essayer d
 | Site web        | Date du constat        | Constat                   | Problème               | Droit de réponse        |
 | --------------- | ---------------------- | ------------------------- | ---------------------- | ----------------------- |
 | Darty | 2020/12/28 | Le formulaire de changement de mot de passe ne permet pas de coller la valeur dans le champ de confirmation (mais l'accepte dans le premier champ). | Cela rend difficile l'usage d'un mot de passe géré par une gestionnaire qui ne serait pas forcément intégré au navigateur utilisé | _Néant_ |
+| Ticketing Ciné | 2021/09/06 | Les mots de passes sont limités à 15 signes. | Limiter la longueur des mots de passe réduit le niveau de sécurité des accès. L'usage de gestionnaire de mot de passe permettant de générer des mots de passe longs, complexes, et faciles d'accès. | _Néant_ |
 
 ## Listes des sites corrigés
 

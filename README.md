@@ -10,7 +10,7 @@ L'ensemble de ce site est maintenu [sur GitHub](https://github.com/MDPTropFort/m
 
 ## Droit de réponse
 
-Si un éditeur n'est pas d'accord avec nos publications, plutôt que d'essayer de nous censurer, il est préférable de [nous contacter](https://github.com/MDPTropFort) pour faire valoir votre droit de réponse. Celui-ci sera publié ici, sur la même ligne que le constat dans le cas où le constat est toujours présent et où les avis divergent, ou dans la liste des sites corrigés si le constat publié a mené à une prise de conscience.
+Si un éditeur n'est pas d'accord avec nos publications, plutôt que d'essayer de nous censurer, il est préférable de [nous contacter](https://github.com/MDPTropFort/mdptropfort.github.io/issues/new?assignees=&labels=Droit+de+r%C3%A9ponse&template=droit-de-r-ponse.md&title=NOM_DU_SERVICE%2C+droit+de+r%C3%A9ponse) pour faire valoir votre droit de réponse. Celui-ci sera publié ici, sur la même ligne que le constat dans le cas où le constat est toujours présent et où les avis divergent, ou dans la liste des sites corrigés si le constat publié a mené à une prise de conscience.
 
 ## Listes des constats
 
